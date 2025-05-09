@@ -1,8 +1,3 @@
-"""
-emojis are included, banned cahts and others
-
-"""
-
 import telegram
 from aiolimiter import AsyncLimiter
 from contextlib import contextmanager
